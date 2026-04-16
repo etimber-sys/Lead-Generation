@@ -162,11 +162,13 @@ const shortNames = [
 ];
 
 // Entry-level annual membership (family/community tier)
-const entryPrice = [1000, 1750, 500, 1000, 0, 750, 350, 800, 1750, 1500];
+// LMU: $495/yr for businesses with <$2M annual revenue
+const entryPrice = [1000, 1750, 500, 1000, 0, 750, 350, 800, 1750, 495];
 // 0 = newly launched, no published price; Seattle U estimated ~$800 (not published)
 
 // Premium/top tier price
-const premiumPrice = [5000, 1750, 1500, 5000, 0, 1500, 1000, 800, 2700, 1500];
+// LMU: $995/yr for businesses with >$2M annual revenue
+const premiumPrice = [5000, 1750, 1500, 5000, 0, 1500, 1000, 800, 2700, 995];
 // St Thomas: $1,750 + $950 peer group = ~$2,700 combined
 
 // Number of distinct service categories
@@ -222,7 +224,11 @@ new Chart(document.getElementById('priceChart'), {
       legend: { display: false },
       tooltip: {
         callbacks: {
-          label: ctx => ctx.raw === 0 ? 'Not published (new program)' : `$${ctx.raw.toLocaleString()}/yr`
+          label: ctx => {
+            if (ctx.raw === 0) return 'Not published (new program)';
+            if (ctx.dataIndex === lmuIndex) return `LMU: $495/yr (<$2M revenue) · $995/yr (>$2M revenue)`;
+            return `$${ctx.raw.toLocaleString()}/yr`;
+          }
         }
       }
     },
@@ -306,7 +312,7 @@ const radarData = [
   [5, 2, 4, 3, 4],  // Seattle U
   [4, 4, 4, 3, 4],  // UNH
   [4, 4, 5, 5, 3],  // Toledo
-  [3, 2, 3, 3, 3],  // LMU
+  [3, 2, 3, 4, 3],  // LMU
 ];
 
 new Chart(document.getElementById('radarChart'), {
