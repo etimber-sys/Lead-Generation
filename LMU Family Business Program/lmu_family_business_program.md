@@ -22,6 +22,6 @@ Throughout the year, we provide:
 ## Pages
 
 - [Annual Conference](https://cba.lmu.edu/centers/entrepreneurship/familybusinessprogram/annualconference/) — Join us for our fourth annual Family Business Conference!
-- [Membership](https://cba.lmu.edu/centers/entrepreneurship/familybusinessprogram/membership/) — Join a collaborative community of family enterprises.
+- [Membership](https://cba.lmu.edu/centers/entrepreneurship/familybusinessprogram/membership/) — Join a collaborative community of family enterprises. Annual membership fee: **$995/year** for businesses with more than $2M in annual revenue; **$495/year** for businesses with less than $2M in annual revenue.
 - [Advisory Board](https://cba.lmu.edu/centers/entrepreneurship/familybusinessprogram/advisoryboard/) — Comprised of successful entrepreneurs and family business professionals
 - [Events](https://cba.lmu.edu/centers/entrepreneurship/familybusinessprogram/events/) — Mark your calendars for our upcoming events!
