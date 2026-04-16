@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>University Family Business Program Analysis</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f4f6f9; color: #1a1a2e; }
+    header { background: #ab0c2f; color: white; padding: 28px 40px; }
+    header h1 { font-size: 1.8rem; font-weight: 700; }
+    header p { font-size: 0.95rem; opacity: 0.85; margin-top: 4px; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; padding: 28px 40px; max-width: 1400px; margin: 0 auto; }
+    .card { background: white; border-radius: 12px; padding: 24px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); }
+    .card.full { grid-column: 1 / -1; }
+    .card h2 { font-size: 1rem; font-weight: 700; color: #1a1a2e; margin-bottom: 4px; }
+    .card p.sub { font-size: 0.8rem; color: #666; margin-bottom: 18px; }
+    canvas { max-height: 340px; }
+    canvas.tall { max-height: 420px; }
+
+    /* Heatmap table */
+    .heatmap { width: 100%; border-collapse: collapse; font-size: 0.78rem; margin-top: 8px; }
+    .heatmap th { background: #f0f2f5; padding: 8px 10px; text-align: left; font-weight: 600; color: #444; border-bottom: 2px solid #e0e0e0; }
+    .heatmap th.rotate { width: 60px; }
+    .heatmap td { padding: 7px 10px; border-bottom: 1px solid #f0f0f0; text-align: center; }
+    .heatmap td.label { text-align: left; font-weight: 500; color: #333; white-space: nowrap; }
+    .dot-yes  { display:inline-block; width:18px; height:18px; border-radius:50%; background:#2ecc71; }
+    .dot-no   { display:inline-block; width:18px; height:18px; border-radius:50%; background:#e8e8e8; }
+    .dot-part { display:inline-block; width:18px; height:18px; border-radius:50%; background:#f39c12; }
+    .legend { display:flex; gap:18px; margin-top:12px; font-size:0.78rem; align-items:center; }
+    .legend span { display:flex; align-items:center; gap:5px; }
+
+    /* Scorecard strip */
+    .scores { display:flex; gap:16px; flex-wrap:wrap; margin-top:8px; }
+    .score-card { flex:1; min-width:130px; background:#f8f9fb; border-radius:8px; padding:14px; text-align:center; border-top:4px solid #ab0c2f; }
+    .score-card.highlight { border-top-color: #2ecc71; }
+    .score-card h3 { font-size:1.5rem; font-weight:800; color:#ab0c2f; }
+    .score-card h3.green { color:#27ae60; }
+    .score-card p { font-size:0.72rem; color:#666; margin-top:3px; line-height:1.3; }
+
+    footer { text-align:center; padding:20px; color:#999; font-size:0.75rem; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>University Family Business Program — Competitive Analysis</h1>
+  <p>Research compiled April 2026 · 10 programs analyzed · Source: LMU Lead Generation Project</p>
+</header>
+
+<div class="grid">
+
+  <!-- SCORECARD STRIP -->
+  <div class="card full">
+    <h2>Program Snapshot</h2>
+    <p class="sub">Key stats across the 10 programs researched</p>
+    <div class="scores">
+      <div class="score-card"><h3>10</h3><p>Programs Analyzed</p></div>
+      <div class="score-card highlight"><h3 class="green">$350</h3><p>Lowest Entry Price<br>(Niagara University)</p></div>
+      <div class="score-card"><h3>$5K</h3><p>Highest Tier Price<br>(KSU Legacy Circle)</p></div>
+      <div class="score-card highlight"><h3 class="green">50%</h3><p>St. Thomas 3-Year<br>Membership Growth</p></div>
+      <div class="score-card"><h3>100+</h3><p>Member Families<br>(St. Thomas)</p></div>
+      <div class="score-card highlight"><h3 class="green">8</h3><p>Services Offered<br>by Seattle U (most)</p></div>
+      <div class="score-card"><h3>70%</h3><p>Programs Offer<br>Peer Groups</p></div>
+    </div>
+  </div>
+
+  <!-- CHART 1: Entry-Level Membership Price -->
+  <div class="card">
+    <h2>Entry-Level Annual Membership Price</h2>
+    <p class="sub">Cost for a family-owned business to join (base/community tier)</p>
+    <canvas id="priceChart"></canvas>
+  </div>
+
+  <!-- CHART 2: Services Breadth -->
+  <div class="card">
+    <h2>Services Breadth Score</h2>
+    <p class="sub">Number of distinct service categories offered to members</p>
+    <canvas id="servicesChart"></canvas>
+  </div>
+
+  <!-- CHART 3: Positioning Map (Scatter) -->
+  <div class="card">
+    <h2>Program Positioning Map</h2>
+    <p class="sub">Price vs. service breadth — where each program sits in the market</p>
+    <canvas id="scatterChart" class="tall"></canvas>
+  </div>
+
+  <!-- CHART 4: Radar — Top 5 Programs -->
+  <div class="card">
+    <h2>Multi-Dimensional Comparison — Top 5 Programs</h2>
+    <p class="sub">Scored 1–5 across key program dimensions (incl. LMU)</p>
+    <canvas id="radarChart" class="tall"></canvas>
+  </div>
+
+  <!-- CHART 5: Membership Tier Depth -->
+  <div class="card">
+    <h2>Membership Tier Pricing Depth</h2>
+    <p class="sub">Entry vs. premium tier price per program (shows pricing range)</p>
+    <canvas id="tierChart"></canvas>
+  </div>
+
+  <!-- CHART 6: Event Frequency -->
+  <div class="card">
+    <h2>Estimated Annual Events / Touchpoints</h2>
+    <p class="sub">Approximate number of member touchpoints per year</p>
+    <canvas id="eventsChart"></canvas>
+  </div>
+
+  <!-- HEATMAP: Feature Comparison -->
+  <div class="card full">
+    <h2>Feature Comparison Matrix</h2>
+    <p class="sub">Which programs offer which core features</p>
+    <table class="heatmap">
+      <thead>
+        <tr>
+          <th>Program</th>
+          <th>Peer Groups</th>
+          <th>Annual Conference</th>
+          <th>Monthly Events</th>
+          <th>Newsletter</th>
+          <th>Free Entry Point</th>
+          <th>Advisor Directory</th>
+          <th>Student Integration</th>
+          <th>Virtual / Online</th>
+          <th>Next-Gen Focus</th>
+          <th>Law / Finance Resources</th>
+        </tr>
+      </thead>
+      <tbody id="heatmapBody"></tbody>
+    </table>
+    <div class="legend">
+      <span><span class="dot-yes"></span> Yes</span>
+      <span><span class="dot-part"></span> Partial / Emerging</span>
+      <span><span class="dot-no"></span> No / Not Found</span>
+    </div>
+  </div>
+
+</div>
+
+<footer>LMU Lead Generation Project · April 2026 · Data sourced from program websites and public records</footer>
+
+<script>
+// ─── DATA ───────────────────────────────────────────────────────────────────
+
+const programs = [
+  'U of Louisville',
+  'U of New Hampshire',
+  'U of Toledo',
+  'Kennesaw State',
+  'U of Nevada Reno',
+  'U of Denver',
+  'Niagara University',
+  'Seattle University',
+  'U of St. Thomas',
+  'LMU'
+];
+
+const shortNames = [
+  'Louisville','UNH','Toledo','KSU','Nevada Reno','Denver','Niagara','Seattle U','St. Thomas','LMU'
+];
+
+// Entry-level annual membership (family/community tier)
+const entryPrice = [1000, 1750, 500, 1000, 0, 750, 350, 800, 1750, 1500];
+// 0 = newly launched, no published price; Seattle U estimated ~$800 (not published)
+
+// Premium/top tier price
+const premiumPrice = [5000, 1750, 1500, 5000, 0, 1500, 1000, 800, 2700, 1500];
+// St Thomas: $1,750 + $950 peer group = ~$2,700 combined
+
+// Number of distinct service categories
+const serviceCount = [5, 7, 7, 6, 4, 7, 2, 8, 6, 5];
+
+// Estimated annual member touchpoints (events + peer group sessions)
+const annualEvents = [12, 10, 15, 14, 6, 8, 6, 12, 20, 8];
+
+// Heatmap data: [Peer Groups, Annual Conf, Monthly Events, Newsletter, Free Entry, Advisor Dir, Student Integ, Virtual, Next-Gen, Law/Finance]
+// 1=yes, 0.5=partial, 0=no
+const features = [
+  [1,   0,   1,   0,   0.5, 0,   0,   0.5, 1,   0  ], // Louisville
+  [1,   0,   1,   1,   1,   0,   1,   1,   0,   0  ], // UNH
+  [1,   1,   1,   0,   0,   0,   1,   0,   1,   0  ], // Toledo
+  [1,   0,   1,   1,   0,   0.5, 0,   1,   1,   0  ], // KSU
+  [0,   0,   1,   0,   1,   0,   1,   1,   0,   0  ], // Nevada Reno
+  [1,   1,   1,   1,   0,   1,   0,   1,   0,   0  ], // Denver
+  [0,   0,   1,   0,   0,   0,   0,   1,   0,   0  ], // Niagara
+  [0,   0,   1,   0,   0,   0,   1,   1,   0,   1  ], // Seattle U
+  [1,   0,   1,   0,   1,   1,   0,   0.5, 1,   0  ], // St. Thomas
+  [0,   1,   1,   0,   0,   1,   1,   0,   0,   0  ], // LMU
+];
+
+const featureLabels = [
+  'Peer Groups','Annual Conf','Monthly Events','Newsletter',
+  'Free Entry Point','Advisor Directory','Student Integration',
+  'Virtual/Online','Next-Gen Focus','Law/Finance Resources'
+];
+
+const colors = [
+  '#ab0c2f','#2980b9','#27ae60','#8e44ad','#e67e22',
+  '#16a085','#d35400','#2c3e50','#c0392b','#1a6b3a'
+];
+
+const lmuColor = '#ab0c2f';
+const lmuIndex = 9;
+
+// ─── CHART 1: Entry Price ────────────────────────────────────────────────────
+new Chart(document.getElementById('priceChart'), {
+  type: 'bar',
+  data: {
+    labels: shortNames,
+    datasets: [{
+      label: 'Entry Membership ($/yr)',
+      data: entryPrice,
+      backgroundColor: shortNames.map((_, i) => i === lmuIndex ? lmuColor : '#2980b9'),
+      borderRadius: 6,
+    }]
+  },
+  options: {
+    responsive: true,
+    plugins: {
+      legend: { display: false },
+      tooltip: {
+        callbacks: {
+          label: ctx => ctx.raw === 0 ? 'Not published (new program)' : `$${ctx.raw.toLocaleString()}/yr`
+        }
+      }
+    },
+    scales: {
+      y: {
+        beginAtZero: true,
+        ticks: { callback: v => v === 0 ? '$0' : `$${v.toLocaleString()}` }
+      }
+    }
+  }
+});
+
+// ─── CHART 2: Services Breadth ───────────────────────────────────────────────
+new Chart(document.getElementById('servicesChart'), {
+  type: 'bar',
+  data: {
+    labels: shortNames,
+    datasets: [{
+      label: 'Service Categories',
+      data: serviceCount,
+      backgroundColor: shortNames.map((_, i) => i === lmuIndex ? lmuColor : '#27ae60'),
+      borderRadius: 6,
+    }]
+  },
+  options: {
+    responsive: true,
+    plugins: { legend: { display: false } },
+    scales: { y: { beginAtZero: true, max: 10, ticks: { stepSize: 1 } } }
+  }
+});
+
+// ─── CHART 3: Positioning Scatter ────────────────────────────────────────────
+const scatterData = programs.map((p, i) => ({
+  x: entryPrice[i] === 0 ? 200 : entryPrice[i],
+  y: serviceCount[i],
+  label: shortNames[i]
+}));
+
+new Chart(document.getElementById('scatterChart'), {
+  type: 'scatter',
+  data: {
+    datasets: scatterData.map((d, i) => ({
+      label: d.label,
+      data: [{ x: d.x, y: d.y }],
+      backgroundColor: i === lmuIndex ? lmuColor : colors[i],
+      pointRadius: i === lmuIndex ? 12 : 9,
+      pointHoverRadius: 14,
+    }))
+  },
+  options: {
+    responsive: true,
+    plugins: {
+      legend: { position: 'right', labels: { boxWidth: 12, font: { size: 11 } } },
+      tooltip: {
+        callbacks: {
+          label: ctx => `${ctx.dataset.label}: $${ctx.parsed.x.toLocaleString()}/yr · ${ctx.parsed.y} services`
+        }
+      }
+    },
+    scales: {
+      x: {
+        title: { display: true, text: 'Entry Membership Price ($/yr)', font: { size: 11 } },
+        ticks: { callback: v => `$${v.toLocaleString()}` }
+      },
+      y: {
+        title: { display: true, text: 'Services Breadth (# categories)', font: { size: 11 } },
+        beginAtZero: true, max: 10, ticks: { stepSize: 1 }
+      }
+    }
+  }
+});
+
+// ─── CHART 4: Radar — Top 5 + LMU ────────────────────────────────────────────
+// Dimensions: Service Breadth, Peer Groups, Events Frequency, Price Accessibility, Community Features
+// Scored 1–5
+const radarPrograms = ['St. Thomas', 'Seattle U', 'UNH', 'Toledo', 'LMU'];
+const radarColors = ['#2980b9','#27ae60','#8e44ad','#e67e22', lmuColor];
+const radarData = [
+  // [ServiceBreadth, PeerGroups, EventFreq, PriceAccess, CommunityFeatures]
+  [4, 5, 5, 3, 5],  // St. Thomas
+  [5, 2, 4, 3, 4],  // Seattle U
+  [4, 4, 4, 3, 4],  // UNH
+  [4, 4, 5, 5, 3],  // Toledo
+  [3, 2, 3, 3, 3],  // LMU
+];
+
+new Chart(document.getElementById('radarChart'), {
+  type: 'radar',
+  data: {
+    labels: ['Service Breadth', 'Peer Groups', 'Event Frequency', 'Price Accessibility', 'Community Depth'],
+    datasets: radarPrograms.map((p, i) => ({
+      label: p,
+      data: radarData[i],
+      borderColor: radarColors[i],
+      backgroundColor: radarColors[i] + '22',
+      borderWidth: p === 'LMU' ? 3 : 1.5,
+      pointRadius: 4,
+    }))
+  },
+  options: {
+    responsive: true,
+    plugins: { legend: { position: 'right', labels: { boxWidth: 12, font: { size: 11 } } } },
+    scales: {
+      r: { beginAtZero: true, max: 5, ticks: { stepSize: 1, font: { size: 9 } }, pointLabels: { font: { size: 10 } } }
+    }
+  }
+});
+
+// ─── CHART 5: Tier Depth ─────────────────────────────────────────────────────
+new Chart(document.getElementById('tierChart'), {
+  type: 'bar',
+  data: {
+    labels: shortNames,
+    datasets: [
+      {
+        label: 'Entry Tier',
+        data: entryPrice,
+        backgroundColor: shortNames.map((_, i) => i === lmuIndex ? lmuColor + 'aa' : '#2980b9aa'),
+        borderRadius: 4,
+      },
+      {
+        label: 'Premium Tier',
+        data: premiumPrice.map((p, i) => p - entryPrice[i]),
+        backgroundColor: shortNames.map((_, i) => i === lmuIndex ? lmuColor : '#2980b9'),
+        borderRadius: 4,
+      }
+    ]
+  },
+  options: {
+    responsive: true,
+    plugins: {
+      legend: { position: 'top' },
+      tooltip: {
+        callbacks: {
+          label: ctx => {
+            const base = entryPrice[ctx.dataIndex];
+            const prem = premiumPrice[ctx.dataIndex];
+            if (ctx.datasetIndex === 0) return `Entry: $${base.toLocaleString()}/yr`;
+            return `Premium: $${prem.toLocaleString()}/yr`;
+          }
+        }
+      }
+    },
+    scales: {
+      x: { stacked: true },
+      y: { stacked: true, beginAtZero: true, ticks: { callback: v => `$${v.toLocaleString()}` } }
+    }
+  }
+});
+
+// ─── CHART 6: Annual Touchpoints ─────────────────────────────────────────────
+new Chart(document.getElementById('eventsChart'), {
+  type: 'bar',
+  data: {
+    labels: shortNames,
+    datasets: [{
+      label: 'Annual Member Touchpoints',
+      data: annualEvents,
+      backgroundColor: shortNames.map((_, i) => i === lmuIndex ? lmuColor : '#16a085'),
+      borderRadius: 6,
+    }]
+  },
+  options: {
+    responsive: true,
+    plugins: { legend: { display: false } },
+    scales: { y: { beginAtZero: true, ticks: { stepSize: 2 } } }
+  }
+});
+
+// ─── HEATMAP ─────────────────────────────────────────────────────────────────
+const tbody = document.getElementById('heatmapBody');
+programs.forEach((prog, i) => {
+  const tr = document.createElement('tr');
+  if (i === lmuIndex) tr.style.background = '#fff5f7';
+  const tdLabel = document.createElement('td');
+  tdLabel.className = 'label';
+  tdLabel.textContent = (i === lmuIndex ? '⭐ ' : '') + prog;
+  if (i === lmuIndex) tdLabel.style.fontWeight = '700';
+  tr.appendChild(tdLabel);
+  features[i].forEach(val => {
+    const td = document.createElement('td');
+    const dot = document.createElement('span');
+    dot.className = val === 1 ? 'dot-yes' : val === 0.5 ? 'dot-part' : 'dot-no';
+    td.appendChild(dot);
+    tr.appendChild(td);
+  });
+  tbody.appendChild(tr);
+});
+</script>
+</body>
+</html>
