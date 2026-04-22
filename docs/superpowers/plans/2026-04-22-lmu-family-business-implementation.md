@@ -4,7 +4,7 @@
 
 **Goal:** Execute a 12-month growth and quality improvement strategy for the LMU Family Business Entrepreneurship Program, moving from low awareness to 8–15 net new memberships and measurably stronger program quality.
 
-**Architecture:** Three parallel tracks — personalized 1:1 outbound to 41 confirmed leads (22 LMU alumni first), a referral/partner network for trust-based growth, and content/SEO for durable inbound — all feeding into program quality improvements that drive retention and word-of-mouth.
+**Architecture:** Track A (outbound) is a one-time activation of 41 confirmed leads exhausted in Month 1 — not a sustained engine. Track B (referral/partner network) and Track C (content/SEO) are the primary sustained growth engines and carry the most weight toward the 8–15 membership target. All three feed into program quality improvements that drive retention and word-of-mouth.
 
 **Tools Needed:**
 - LinkedIn (outreach) + LinkedIn Sales Navigator (list-building, ~$80/mo)
@@ -978,7 +978,7 @@ git commit -m "feat: add H2 curriculum calendar mapped to top 10 pain points"
 
 ## Task 11: Newsletter Launch (Month 3)
 
-**A biweekly (every two weeks) newsletter to warm leads, current members, and inbound signups. Primary purpose: build trust over multiple touchpoints before asking for membership.**
+**A biweekly (every two weeks) newsletter to warm leads, current members, and inbound signups. Primary purpose: build trust over multiple touchpoints before asking for membership. Starting audience will be small (~20–40 contacts from outreach responses and assessment completions). Growth comes from events, SEO pages, and referrals over time — target is 100+ by Month 6, 150+ by Month 12.**
 
 **Files:**
 - Create: `newsletter/issue-template.md`
@@ -1309,10 +1309,12 @@ Save to `reviews/quarterly-review.md`:
 
 | Metric | Target | Actual | Status |
 |---|---|---|---|
-| CSV leads contacted | 41 (all by M1) | | |
-| New leads added to pipeline | 100+ by M6 | | |
-| Email subscribers | 150+ | | |
-| Net new memberships | 8–15 | | |
+| CSV leads contacted | 41/41 by end of Month 1 | | |
+| New leads added to pipeline | 100+ by Month 6 | | |
+| Email subscribers | 150+ by Month 12 | | |
+| New members — Track A (CSV) | 4–6 | | |
+| New members — Tracks B+C (referral/inbound) | 4–9 | | |
+| Net new memberships (total) | 8–15 | | |
 | Member renewal rate | 75%+ | | |
 | Post-event satisfaction avg | 4.2+/5.0 | | |
 | Member-referred leads | 5+/quarter by Q4 | | |

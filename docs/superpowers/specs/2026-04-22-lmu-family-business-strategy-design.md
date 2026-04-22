@@ -147,7 +147,7 @@ This makes the value of membership concrete and reduces the "I don't know if thi
 |---|---|---|
 | List activation | All existing CSV leads contacted | 41/41 by end of Month 1 |
 | Pipeline growth | New leads added beyond CSV | 100+ by Month 6 |
-| Lead generation | Email subscribers captured | 150+ |
+| Lead generation | Email subscribers captured | 100+ by Month 6; 150+ by Month 12 |
 | Conversion — Track A | New members from existing 41 leads | 4–6 |
 | Conversion — Tracks B+C | New members from referrals + inbound | 4–9 |
 | Conversion — Total | Net new memberships | 8–15 |
