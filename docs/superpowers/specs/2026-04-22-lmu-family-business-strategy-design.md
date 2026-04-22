@@ -9,7 +9,7 @@
 
 The strategy runs on three parallel tracks that compound over time, with program quality improvements running underneath all three.
 
-**Track A — Outbound:** Activate the 1,445-business compiled CSV through persona-segmented LinkedIn + email outreach sequences. Goal is not immediate membership conversion — it is to drive prospects to a free, low-barrier touchpoint (event or lead magnet). Every sequence ends with a single CTA.
+**Track A — Outbound:** Activate the 41 confirmed family business leads in the compiled CSV through personalized, high-touch 1:1 outreach — not mass sequences. 22 of the 41 are LMU alumni and are the warm priority segment. Goal is not immediate membership conversion — it is to drive prospects to a free, low-barrier touchpoint (event or lead magnet). The small list size makes genuine personalization feasible and more effective than templated sequences. After exhausting the existing list, list-building becomes an ongoing activity.
 
 **Track B — Referral & Partner Network:** Build a referral engine using three channels — current members, LMU CBA alumni, and professional advisors (CPAs, estate attorneys, wealth managers) who already serve family businesses. Each channel gets a specific ask and a clear incentive.
 
@@ -22,15 +22,22 @@ The strategy runs on three parallel tracks that compound over time, with program
 ## Section 1: Quick Wins (Months 0–3)
 
 ### Month 1 — Outbound Launch
-- Segment the 1,445-business CSV into three persona buckets:
-  - **Founders** (55–70, CEO/owner titles)
-  - **Successors** (28–45, next-gen titles)
-  - **Sibling Teams** (co-founders/co-owners with shared surnames)
-- Build a 3-step LinkedIn outreach sequence per persona:
-  1. Connection request (no pitch)
-  2. Value message referencing a specific pain point from persona research
-  3. CTA to a free event or downloadable resource
-- Use persona-specific pain point language from the research (e.g., succession anxiety for Founders; authority/identity for Successors; role clarity for Sibling Teams)
+The compiled CSV has **41 confirmed family business leads**, all fully verified as family-owned. **22 are LMU alumni** — the warm priority segment.
+
+**Wave 1 (Weeks 1–2): LMU Alumni (22 leads)**
+- Reach out personally via LinkedIn or direct email — reference the LMU connection explicitly
+- CTA: invitation to the next forum event or a free resource, not a membership pitch
+- Personal note from the program director carries significant weight here
+
+**Wave 2 (Weeks 3–4): Non-alumni confirmed leads (19 leads)**
+- Personalized outreach referencing their specific business or industry
+- Same CTA approach: event or lead magnet, not membership
+
+**Ongoing: List-building**
+Since 41 leads is a small starting pool, list expansion becomes a parallel priority from Month 1:
+- Source new LA-area family businesses via LinkedIn Sales Navigator (filter: family-owned indicators, LA location, revenue signals)
+- Use the advisory board and current members as nomination sources ("who else should be in this room?")
+- Capture inbound leads via lead magnet and SEO pages as those come online
 
 ### Month 1 — Lead Magnet: Succession Readiness Assessment
 - Build a 10-question self-scoring tool: "How Ready Is Your Family Business for the Next Generation?"
@@ -105,7 +112,7 @@ This makes the value of membership concrete and reduces the "I don't know if thi
 | Scale | 6–12 | Compound inbound traffic, deepen referral network, publish member case studies, optimize based on data |
 
 ### Key Milestones
-- **Month 1:** Outreach sequences live for all 3 personas; lead magnet published
+- **Month 1:** All 41 CSV leads personally contacted (alumni wave first); lead magnet published; list-building begun
 - **Month 2:** First referral credits issued; 10 partner relationships initiated
 - **Month 3:** Google Business Profile optimized; 3 SEO pages live; first nurture sequence complete
 - **Month 4:** Peer groups launched with founding cohorts
@@ -119,9 +126,10 @@ This makes the value of membership concrete and reduces the "I don't know if thi
 
 | Goal | Metric | 12-Month Target |
 |---|---|---|
-| Awareness | Outreach contacts reached | 500+ from CSV |
-| Lead generation | Email subscribers captured | 300+ |
-| Conversion | Net new memberships | 20–30 |
+| Awareness | Existing CSV leads contacted | 41 (all) by end of Month 1 |
+| Awareness | New leads added to pipeline | 100+ by Month 6 |
+| Lead generation | Email subscribers captured | 150+ |
+| Conversion | Net new memberships | 8–15 |
 | Retention | Member renewal rate | 75%+ |
 | Program quality | Post-event satisfaction score | 4.2+/5.0 |
 | Referrals | Member-referred leads per quarter | 5+ by Q4 |
@@ -134,7 +142,7 @@ Evaluate at 3, 6, and 12 months using a "stop, start, or continue" framework for
 
 ## Key Assets Available
 
-- **1,445-business compiled CSV** — pre-segmented prospects ready for outreach
+- **41-lead compiled CSV** — all confirmed family-owned businesses, 22 of whom are LMU alumni; warm priority segment for outbound
 - **Persona research** — 3 detailed archetypes with pain points, triggers, objections, and messaging guidance
 - **9 competitor program analyses** — benchmarks for pricing, membership benefits, event formats, referral structures
 - **SEO keyword strategy** — LA-specific and intent-based keywords ready to deploy
