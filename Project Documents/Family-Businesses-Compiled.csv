@@ -1,0 +1,873 @@
+"Family Business Owners, Loyola Mary","Company Name","Full Name","Job Title","Work Email","LMU Alumni Status","Location","Company Domain","LinkedIn Profile","Is Family Owned?","Family Ownership Summary (Text)","Family Business Score","Size Score","Revenue Score","Average Combined Score"
+"","PCAM, LLC (Parking Company of America)","Alex Chaves","Chief Executive Officer","achaves@parkpca.com","Yes","Manhattan Beach, California, United States","parkpca.com","https://www.linkedin.com/in/alex-chaves-53a48247/","Yes","Company: PCAM, LLC (Parking Company of America)
+Family-Owned: Yes
+Confidence: high
+Rationale: Parking Company of America (PCA) is explicitly described as a family-owned and operated business on its official website. The company was founded by the Chaves siblings, and leadership has been passed down through generations, with current key roles held by individuals with the Chaves surname.
+Evidence:
+- Item 1
+  Source Title: Get to Know Parking Company of America Overview
+  Quote: Parking Company of America has remained a family owned and operated business throughout its lifetime, with over 1,300 employees nationwide.
+  Keywords: family owned, operated business
+  URL: https://www.parkpca.com/blog/get-know-parking-company-america-overview
+- Item 2
+  Source Title: About Us - Parking Company of America
+  Quote: Richard has passed the torch to the 3rd generation and his kids, Richard Chaves Jr. Morgan Chaves, and Nick Chaves continue to run the company today as the President, Vice President, and Vice President of Operations.
+  Keywords: 3rd generation, passed the torch
+  URL: https://www.parkpca.com/about-us
+- Item 3
+  Source Title: Parking Management - Parking Company of America
+  Quote: Aaron Chaves. Vice President of Operations.
+  Keywords: Chaves
+  URL: https://www.parkpca.com/parking-management
+Founder Last Name Matches:
+- Match 1
+  Founder Last Name: Chaves
+  Matched Leaders: Alex Martin Chaves (CEO), Eric Chaves (President), Renee Chaves (Executive Vice President), Richard Chaves Jr. (President), Morgan Chaves (Vice President), Nick Chaves (Vice President of Operations), Aaron Chaves (Vice President of Operations)
+  Source URL: https://www.parkpca.com/about-us
+Identifier Used: domain","Response",10,10,10
+"","Channel Islands Social Services","Sharon F.","Founder and CEO","sharon@islandsocialservices.org","No","United States, United States","islandsocialservices.org","https://www.linkedin.com/in/cisssharon/","Yes","Company: Channel Islands Social Services
+Family-Owned: Yes
+Confidence: high
+Rationale: Channel Islands Social Services is confirmed as family-owned and operated based on explicit statements on its official website and LinkedIn profile. It was co-founded in 2004 by Sharon M. Francis and her husband, Tim Francis, to provide local respite services in Ventura County.
+Evidence:
+- Item 1
+  Source Title: Channel Islands Social Services
+  Quote: Established in 2004, Channel Islands Social Services is a family-operated organization focused on strengthening families.
+  Keywords: family-operated
+  URL: https://www.islandsocialservices.org/
+- Item 2
+  Source Title: About Us - Channel Islands Social Services
+  Quote: CISS is a family-operated, private service organization committed to providing direct support to individuals and their dedicated caregivers/parents.
+  Keywords: family-operated
+  URL: https://www.islandsocialservices.org/about-us/
+- Item 3
+  Source Title: Channel Islands Social Services | LinkedIn
+  Quote: Channel Islands Social Services (CISS) is an award-winning, private, family-owned organization located in Ventura County, CA.
+  Keywords: family-owned
+  URL: https://www.linkedin.com/company/channel-islands-social-services
+Founder Last Name Matches:
+- Match 1
+  Founder Last Name: Francis
+  Matched Leaders: Sharon M. Francis (Co-Founder), Tim Francis (Co-Founder)
+  Source URL: https://www.islandsocialservices.org/about-us/
+Identifier Used: domain","Response",9,9,9
+"","Clover Sonoma","John Coletta","Chief Executive Officer","john@cloversonoma.com","Yes","Boulder, Colorado, United States","cloversonoma.com","https://www.linkedin.com/in/john-coletta-15332810/","Yes","Company: Clover Sonoma
+Family-Owned: Yes
+Confidence: high
+Rationale: Clover Sonoma is determined to be family-owned based on explicit statements on its homepage, 'About Us' section, and official press releases. The company describes itself as 'third-generation family owned and operated' and identifies Marcus Benedetti as the lead shareholder and Chairman, continuing the legacy of founder Gene Benedetti.
+Evidence:
+- Item 1
+  Source Title: Clover Sonoma Homepage
+  Quote: Clover Sonoma is a family-owned company partnering with multi-generational family farms in Northern California
+  Keywords: family-owned, multi-generational, family farms
+  URL: https://cloversonoma.com/
+- Item 2
+  Source Title: Clover Sonoma Partners with Independent Family-Owned Food & Dairy Company Alpina
+  Quote: Third-generation family owned and operated, Clover Sonoma is a leader at the forefront of the dairy industry
+  Keywords: Third-generation, family owned and operated
+  URL: https://cloversonoma.com/press/clover-sonoma-partners-with-independent-family-owned-food-dairy-company-alpina-to-facilitate-growth-in-u-s-market/
+- Item 3
+  Source Title: Family Farms - Clover Sonoma
+  Quote: Aggio family’s history in the dairy industry started back in 1906, and today the 3rd, 4th, and 5th generations help out on the farm.
+  Keywords: generations, family
+  URL: https://cloversonoma.com/family-farms-copy/
+Founder Last Name Matches:
+- Match 1
+  Founder Last Name: Benedetti
+  Matched Leaders: Marcus Benedetti (Chairman and Largest Shareholder)
+  Source URL: https://cloversonoma.com/press/clover-sonoma-partners-with-independent-family-owned-food-dairy-company-alpina-to-facilitate-growth-in-u-s-market/
+Identifier Used: domain","Response",9,9,9
+"","Diana's Mexican Food Products, Inc.","Samuel Magaña, MBA","Chief Executive Officer","magana@dianas.net","Yes","Norwalk, California, United States","dianas.net","https://www.linkedin.com/in/samuel-magaña-mba-0696421/","Yes","Company: Diana's Mexican Food Products, Inc.
+Family-Owned: Yes
+Confidence: high
+Rationale: The company's 'About Us' page and LinkedIn profile explicitly state it is a 'family owned and operated' enterprise. Furthermore, the website describes the involvement of the founder's children and identifies Samuel Magaña Jr. as the current general manager, confirming multi-generational family leadership.
+Evidence:
+- Item 1
+  Source Title: About Us - Diana's Mexican Food Products
+  Quote: Diana's Mexican Food Products is one of those family owned and operated enterprises that started from humble beginnings and continues to enjoy success that has carried its founders into the twenty-first century.
+  Keywords: family owned and operated, founders, Magaña children
+  URL: https://www.dianas.net/AboutUs.html
+- Item 2
+  Source Title: Samuel F. Magana - Diana's Mexican Food Products
+  Quote: I am profoundly saddened to announce that my Father and our co-founder Samuel F. Magana, passed away last week.
+  Keywords: co-founder, Father, generations
+  URL: https://www.dianas.net/sam-f-magana.html
+- Item 3
+  Source Title: Diana's Mexican Food Products | LinkedIn
+  Quote: Diana's Mexican Food Products is one of those family owned and operated enterprises that started from humble beginnings and continues to enjoy success that has carried its founders into the twenty-first century.
+  Keywords: family owned and operated, Privately Held
+  URL: https://www.linkedin.com/company/dianas
+Founder Last Name Matches:
+- Match 1
+  Founder Last Name: Magaña
+  Matched Leaders: Samuel Magaña Jr. (General Manager)
+  Source URL: https://www.dianas.net/AboutUs.html
+Identifier Used: domain","Response",9,9,9
+"","Loftin Equipment Co.","Chuck Loftin","Chief Executive Officer","cloftin@loftinequip.com","Yes","Phoenix, Arizona, United States","loftinequip.com","https://www.linkedin.com/in/chuckloftin/","Yes","Company: Loftin Equipment Co.
+Family-Owned: Yes
+Confidence: high
+Rationale: Loftin Equipment Co. explicitly identifies as a 'family owned business' on its official website. This is corroborated by the company's history, which identifies Mark Loftin as the founder in 1976, and current leadership records showing Charles (Chuck) Loftin as the President and CEO.
+Evidence:
+- Item 1
+  Source Title: About Us - Loftin Equipment Co.
+  Quote: Loftin Equipment is a family owned business that started in Phoenix, AZ and has grown throughout the southwest region.
+  Keywords: family owned business
+  URL: https://loftinequip.com/about-us/
+- Item 2
+  Source Title: About Us - Loftin Equipment Co.
+  Quote: On Dec. 21, 1976, Mark Loftin purchased Nelson Electric, the KOHLER® Power Systems distributor for Arizona.
+  Keywords: Mark Loftin, purchased
+  URL: https://loftinequip.com/about-us/
+Founder Last Name Matches:
+- Match 1
+  Founder Last Name: Loftin
+  Matched Leaders: Charles (Chuck) Loftin (President/CEO)
+  Source URL: https://loftinequip.com/team/profiles/charles-loftin/
+Identifier Used: domain","Response",9,9,9
+"","Olympus Property","Wade Madden","Chief Executive Officer","wade.madden@olympusproperty.com","Yes","Newport Beach, California, United States","olympusproperty.com","https://www.linkedin.com/in/wade-madden-73444646/","Yes","Company: Olympus Property
+Family-Owned: Yes
+Confidence: high
+Rationale: Olympus Property explicitly identifies as a 'family-owned and operated business' on its Investors page. Corroborating evidence from third-party sources confirms the company was co-founded by brothers Chandler and Anthony Wonderly in 1992, and internal blog posts emphasize the preservation of a 'family culture' within the organization.
+Evidence:
+- Item 1
+  Source Title: Investors - Olympus Property
+  Quote: As a family-owned and operated business, Olympus Property benefits from a small yet highly effective investment team, allowing us to outmaneuver larger institutional competition and secure investment opportunities with unparalleled efficiency.
+  Keywords: family-owned, operated business
+  URL: https://www.olympusproperty.com/investors
+- Item 2
+  Source Title: Get to Know Olympus Founder Chandler Wonderly
+  Quote: I want to always ensure that we keep that family culture, which is the core of our company.
+  Keywords: family culture
+  URL: https://www.olympusproperty.com/blog/get-to-know-olympus-founder-chandler-wonderly
+- Item 3
+  Source Title: Building a Team That Gives Back and Stepping Into Your Employees' Shoes with Anthony Wonderly
+  Quote: Anthony Wonderly co-founded Olympus Properties with his brother, Chandler, in 1992, and the company has become a successful and recognized name in the multifamily industry.
+  Keywords: co-founded, brother
+  URL: https://thecapitalchartroom.com/building-a-team-that-gives-back-and-stepping-into-your-employees-shoes-with-anthony-wonderly/
+Founder Last Name Matches:
+- Match 1
+  Founder Last Name: Wonderly
+  Matched Leaders: Chandler Wonderly (Founder & Principal), Anthony Wonderly (Co-founder)
+  Source URL: https://thecapitalchartroom.com/building-a-team-that-gives-back-and-stepping-into-your-employees-shoes-with-anthony-wonderly/
+Identifier Used: domain","Response",9,9,9
+"","Kroenke Sports & Entertainment","Kelsey Arms","Executive Director, Brand Marketing & Solutions - Outdoor Sportsman Group","karm@linkedin.com","Yes","Denver Metropolitan Area, United States","https://www.linkedin.com/company/kroenke-sports-enterprises/","https://www.linkedin.com/in/kelsey-arms-0614351b/","Yes","Company: Kroenke Sports & Entertainment
+Family-Owned: Yes
+Confidence: High
+Rationale: Kroenke Sports & Entertainment was founded in 1999 by Stan Kroenke and is explicitly described as a family business by multiple sources. Stan Kroenke serves as Owner/Chairman, while his son Josh Kroenke holds the role of Vice Chairman — and is directly described as having joined ""the family business"" when he came on board in 2007. Additionally, the Denver Nuggets and Colorado Avalanche are formally held in the name of Stan's wife, Ann Walton Kroenke, due to NFL cross-ownership rules, further cementing the Kroenke family's collective control of the enterprise. The company is privately held with no outside shareholders.
+Evidence:
+
+Item 1
+Source Title: From Court to Corporate: The Rise of Josh Kroenke in Sports and Business
+Quote: ""In 2007, he joined Kroenke Sports & Entertainment (KSE), the family business, and quickly rose.""
+Keywords: family business
+URL: https://www.everydayentrepreneur.ai/p/from-court-to-corporate-the-rise
+Item 2
+Source Title: E. Stanley Kroenke | Ball Arena
+Quote: ""In addition to their son Josh, who is President and Governor of the Avalanche and Nuggets and Vice Chairman of Kroenke Sports & Entertainment, Stan and his wife, Ann, have a daughter, Whitney...""
+Keywords: son, wife — multiple family members in executive roles
+URL: https://www.ballarena.com/executive-team/e-stanley-kroenke/
+Item 3
+Source Title: Stan Kroenke – Wikipedia
+Quote: ""The Nuggets and Avalanche franchises are held in the name of his wife, Ann Walton Kroenke, to evade NFL rules that forbid a team owner from having teams in other markets.""
+Keywords: held in the name of his wife — family ownership structure
+URL: https://en.wikipedia.org/wiki/Stan_Kroenke
+Item 4
+Source Title: Kroenke Sports & Entertainment – Wikipedia
+Quote: ""KSE, with Stan Kroenke listed as the owner, agreed to turn over control of the Denver Nuggets and Colorado Avalanche to Josh Kroenke by the end of 2010.""
+Keywords: turn over control to Josh Kroenke — intrafamily succession
+URL: https://en.wikipedia.org/wiki/Kroenke_Sports_%26_Entertainment
+
+Founder Last Name Matches:
+
+Match 1
+Founder Last Name: Kroenke
+Matched Leaders: E. Stanley Kroenke (Founder / Owner / Chairman), Josh Kroenke (Vice Chairman; President & Governor, Nuggets & Avalanche), Ann Walton Kroenke (registered owner of Nuggets & Avalanche franchises)
+Source URLs: https://www.ballarena.com/arena-information/executive-team | https://en.wikipedia.org/wiki/Stan_Kroenke","Response",9,9,9
+"","Wilcox + Flegel Oil Co.","Aaron Wilcox, MBA","Chief Executive Officer","aaron@wilcoxandflegel.com","Yes","Longview, Washington, United States","wilcoxandflegel.com","https://www.linkedin.com/in/wilcox/","Yes","Company: Wilcox + Flegel Oil Co.
+Family-Owned: Yes
+Confidence: high
+Rationale: The company's own website explicitly states 'We're a family company' and identifies Aaron Wilcox as a third-generation leader. Detailed timeline entries show the progression from Steve C. Wilcox Jr. to 'Little Steve' Wilcox and finally to Aaron Wilcox. LinkedIn further corroborates this with a quote from former President Steve Wilcox referencing his son Aaron and the 'third generation.'
+Evidence:
+- Item 1
+  Source Title: Wilcox + Flegel | Fuel and Lubricant Distributor
+  Quote: We're a family company. It's the very heart of who we are.
+  Keywords: family company
+  URL: https://wilcoxandflegel.com/
+- Item 2
+  Source Title: About Us - Wilcox + Flegel
+  Quote: A third-generation leader of Wilcox and Flegel, Aaron served as President for more than 6 years.
+  Keywords: third-generation, family company
+  URL: https://wilcoxandflegel.com/about-us/
+- Item 3
+  Source Title: Wilcox + Flegel Oil Co. | LinkedIn
+  Quote: I see my son, Aaron, working hard to keep this company growing in its third generation of business... Wilcox + Flegel will always feel like a family to me—because, I suppose, it is.
+  Keywords: third generation, family, son
+  URL: https://www.linkedin.com/company/wilcox-flegel-oil-co
+Founder Last Name Matches:
+- Match 1
+  Founder Last Name: Wilcox
+  Matched Leaders: Steve C. Wilcox Jr., Steve Wilcox (Little Steve), Aaron Wilcox (CEO)
+  Source URL: https://wilcoxandflegel.com/about-us/
+Identifier Used: domain","Response",9,8,8.5
+"","Family Tree Produce","David Guzman","Part Owner","dguzman@familytreeproduce.com","Yes","Orange County, California, United States","familytreeproduce.com","https://www.linkedin.com/in/david-guzman-99182ba8/","Yes","Company: Family Tree Produce
+Family-Owned: Yes
+Confidence: high
+Rationale: Family Tree Produce is determined to be family-owned because its official website explicitly describes it as a 'family business' and names Fidel Guzman as the owner and founder. This status is consistently corroborated by third-party sources like Restaurant Business and BestFoodImporters, which repeat the family-owned characterization and confirm the founder's identity.
+Evidence:
+- Item 1
+  Source Title: Family Tree Produce Homepage
+  Quote: Family Tree Produce has been servicing southern California since 1975 as a minority and family business. Owner Fidel Guzman began the company after immigrating from Mexico...
+  Keywords: family business, Owner, began the company
+  URL: https://familytreeproduce.com/
+- Item 2
+  Source Title: Family Tree Produce Joins Pro*Act - Restaurant Business
+  Quote: Family Tree Produce, founded in 1975 by former chef and restaurant owner Fidel Guzman, is one of the largest fresh produce distributors in Orange County...
+  Keywords: founded by, owner
+  URL: https://restaurantbusinessonline.com/family-tree-produce-joins-proact
+- Item 3
+  Source Title: Family Tree Produce - Best Food Importers
+  Quote: Family Tree Produce is a family-owned business that has been delivering fresh fruits and vegetables... Owner Fidel Guzman...
+  Keywords: family-owned, Owner
+  URL: https://bestfoodimporters.com/company/family-tree-produce/
+- Item 4
+  Source Title: Family Tree Produce - Facebook About
+  Quote: Family Tree Produce, a Veteran/Minority owned and operated company, was founded by Fidel Guzman in 1975.
+  Keywords: owned and operated, founded by
+  URL: https://www.facebook.com/FamilyTreeProduce/
+Founder Last Name Matches:
+- Match 1
+  Founder Last Name: Guzman
+  Matched Leaders: Fidel Guzman (Owner/Founder)
+  Source URL: https://familytreeproduce.com/
+Identifier Used: domain","Response",7,9,8
+"","Denham Resources","Joe Denham","CEO","joe@denham.net","No","Fresno, CA","denham.net","https://www.linkedin.com/company/denham-resources","Yes","Company: Denham Resources
+Family-Owned: Yes
+Confidence: high
+Rationale: Explicit language on the company’s About/Company History page and corroborating LinkedIn profile both identify Denham Resources as family-owned; the founders (Bud and Jean Denham) and current leaders (Dave Denham, Joe Denham) share the Denham last name, indicating family succession and ownership.
+Evidence:
+- Item 1
+  Source Title: Company History - Denham Resources
+  Quote: Locally and Family-Owned Company... Founded in 1970 by Bud and Jean Denham... The Denham family and its employees are committed to their core purpose... The family intends to continue to serve the people of Central California.
+  Keywords: Family-Owned, Founded by, The Denham family, The family intends
+  URL: https://www.denham.net/company-history/
+- Item 2
+  Source Title: Denham Resources | LinkedIn
+  Quote: Central California’s oldest family-owned staffing agency, dedicated to integrity and personalized service.
+  Keywords: family-owned
+  URL: https://www.linkedin.com/company/denham-resources
+Founder Last Name Matches:
+- Match 1
+  Founder Last Name: Denham
+  Matched Leaders: Dave Denham, Joe Denham
+  Source URL: https://www.denham.net/company-history/
+Identifier Used: domain","Response",5,9,7
+"","Saint Bernard","Charlie Goyer","Chief Executive Officer","charlie@saintbernard.com","No","Dallas, Texas, United States","saintbernard.com","https://www.linkedin.com/in/charlie-goyer-7413746/","Yes","Company: Saint Bernard
+Family-Owned: Yes
+Confidence: high
+Rationale: Saint Bernard explicitly identifies as a family-owned business on its 'About Us' and 'History' pages, noting it has been family-owned since 1978 and is currently in its second generation of family ownership. Founders Anne and Wes Goyer are named, and current employees such as Charlie Goyer share the same surname, confirming multi-generational involvement.
+Evidence:
+- Item 1
+  Source Title: About Us - Saint Bernard
+  Quote: ST. BERNARD FAMILY OWNED SINCE 1978
+  Keywords: FAMILY OWNED
+  URL: https://www.saintbernard.com/pages/aboutus?srsltid=AfmBOop4xWGpsDqat1oRxuammS_txO9Q1aRUNQcmVJUA3RtEBkj9XocA
+- Item 2
+  Source Title: Our History - Saint Bernard
+  Quote: In our second generation of family ownership, with much thought and excitement, we're prouder than ...
+  Keywords: second generation, family ownership
+  URL: https://www.saintbernard.com/pages/our-history?srsltid=AfmBOop9qBJHgUvZcKtEFEK37YIW4tx7CLK_F0IOlx9lLez6H6YHa0Dp
+- Item 3
+  Source Title: Saint Bernard | LinkedIn
+  Quote: Saint Bernard is a family owned ski, snowboard and apparel retail shop and online store based in Dallas, Texas.
+  Keywords: family owned
+  URL: https://www.linkedin.com/company/saint-bernard
+Founder Last Name Matches:
+- Match 1
+  Founder Last Name: Goyer
+  Matched Leaders: Charlie Goyer
+  Source URL: https://www.linkedin.com/company/saint-bernard
+Identifier Used: domain","Response",9,5,7
+"","KC HiLiTES, Inc.","Alan Wang","CEO & Managing Partner","alan@kchilites.com","No","Gardena, California, United States","kchilites.com","https://www.linkedin.com/in/alan-wang-0b5a771a/","Yes","Company: KC HiLiTES, Inc.
+Family-Owned: Yes
+Confidence: high
+Rationale: KC HiLiTES is determined to be family-owned based on explicit statements on its official website ('We are a family-owned business') and documented multi-generational succession from founder Peter Kim Brown to Michael DeHaas. Independent sources like MotorTrend confirm this legacy and describe the company as a 'family business.'
+Evidence:
+- Item 1
+  Source Title: KC HiLiTES Journey
+  Quote: We are a family-owned business made of people who care about creating unforgettable experiences that empower the spirit to Adventure Further®.
+  Keywords: family-owned, founder, passed down, son
+  URL: https://www.kchilites.com/about/journey
+- Item 2
+  Source Title: Who We Are - KC HiLiTES
+  Quote: By joining forces, two families become one united front... Today, Pete and Michael are still family friends and serve as advisors to the Wangs.
+  Keywords: family-owned, two families, founder
+  URL: https://partners.kchilites.com/pages/who-we-are
+- Item 3
+  Source Title: Lighting Is A Family Business - MotorTrend
+  Quote: Lighting Is A Family Business
+  Keywords: Family Business, family legacy
+  URL: https://www.motortrend.com/features/1111-4wd-kc-hilites-hightlights-of-a-family-legacy
+Founder Last Name Matches:
+- Match 1
+  Founder Last Name: Brown
+  Matched Leaders: Peter Kim Brown (Founder/Advisor)
+  Source URL: https://partners.kchilites.com/pages/who-we-are
+Identifier Used: domain","Response",5,8,6.5
+"","McGuire Capital Group Realty","Shea McGuire","Owner of McGuire Real Estate","shea@mcguirerealestate.com","Yes","Vacaville, California, United States","mcguirecapitalgrouprealty.com","https://www.linkedin.com/in/shea-mcguire-556a5971/","Yes","Company: McGuire Capital Group Realty
+Family-Owned: Yes
+Confidence: high
+Rationale: McGuire Capital Group Realty is explicitly described as a family-owned business in its own marketing materials and third-party profiles. It is owned by siblings Shea, Tom, and Mark McGuire, who joined their father, Paul McGuire, in the real estate industry. The company's history highlights this multi-generational involvement and the siblings' role in founding the current iteration of the group.
+Evidence:
+- Item 1
+  Source Title: McGuire Capital Group Realty | LinkedIn
+  Quote: McGuire Capital Group Realty is owned by siblings Shea, Tom, and Mark McGuire. Separately, each sibling found their path to real estate and joined their father Paul McGuire in the business.
+  Keywords: owned by siblings, joined their father
+  URL: https://www.linkedin.com/company/mcguire-capital-group-realty
+- Item 2
+  Source Title: Plant Your Roots: McGuire Capital Group Realty Announces a Rebrand
+  Quote: We're a family business serving people looking for what makes their home a home.
+  Keywords: family business
+  URL: https://www.mcguirerealestate.com/post/plant-your-roots-mcguire-capital-group-realty-announces-a-rebrand
+- Item 3
+  Source Title: McGuire Real Estate - Real Estate Agent in Vacaville, CA - Zillow
+  Quote: WE ARE A FAMILY BUSINESS McGuire Capital Group Realty is owned by siblings Shea, Tom, and Mark McGuire.
+  Keywords: FAMILY BUSINESS, owned by siblings
+  URL: https://www.zillow.com/profile/mcguire%20realestate
+- Item 4
+  Source Title: McGuire Capital Group Realty - ZoomInfo
+  Quote: McGuire Real Estate is a family-owned business focused on providing exceptional real estate services in Vacaville.
+  Keywords: family-owned business
+  URL: https://www.zoominfo.com/c/mcguire-capital-group-realty/395818033
+Founder Last Name Matches:
+- Match 1
+  Founder Last Name: McGuire
+  Matched Leaders: Shea McGuire, Tom McGuire, Mark McGuire
+  Source URL: https://www.linkedin.com/company/mcguire-capital-group-realty
+Identifier Used: domain","Response",5,7,6
+"","Preserve Gold","Jennifer R.","Chief Executive Officer","jennifer@preservegold.com","No","Los Angeles Metropolitan Area, United States","preservegold.com","https://www.linkedin.com/in/jennifer-r-19b28bba/","Yes","Company: Preserve Gold
+Family-Owned: Yes
+Confidence: high
+Rationale: Preserve Gold is identified as family-owned based on explicit statements found on its LinkedIn and Trustpilot profiles. While the company's website uses the phrase 'treat you like family,' the third-party profiles provide the necessary explicit confirmation of ownership structure.
+Evidence:
+- Item 1
+  Source Title: Preserve Gold | LinkedIn
+  Quote: Preserve Gold is a family-owned company committed to helping investors protect their wealth and retirement with physical precious metals.
+  Keywords: family-owned
+  URL: https://www.linkedin.com/company/preserve-gold
+- Item 2
+  Source Title: Preserve Gold Reviews | Trustpilot
+  Quote: Preserve Gold is a family-owned company committed to helping individuals and families diversify their wealth and retirement with physical precious metals.
+  Keywords: family-owned
+  URL: https://www.trustpilot.com/review/preservegold.com
+- Item 3
+  Source Title: Preserve Gold | Physical Precious Metals
+  Quote: Preserve Gold will treat you like family.
+  Keywords: family
+  URL: https://preservegold.com/
+Founder Last Name Matches:
+Identifier Used: domain","Response",5,7,6
+"","Bristol Associates, Inc. - Execu","Ben Farber","President/Owner","bfarber@bristolassoc.com","No","Hermosa Beach, California","bristolassoc.com","https://www.linkedin.com/company/bristol-associates","Yes","Company: Bristol Associates, Inc. - Execu
+Family-Owned: Yes
+Confidence: high
+Rationale: Bristol Associates is a third-generation family-owned executive search firm founded in 1967. The company's website explicitly confirms its family-owned status across multiple pages and provides a detailed history of ownership passing from the founders, Jim Sr. and Sandie Bright, to the second generation (Jim Bright Jr. and Lucy Farber), and finally to the current third-generation owner, President Ben Farber.
+Evidence:
+- Item 1
+  Source Title: Bristol Associates - Executive Search Firm
+  Quote: We have specialized in executive search since 1967, and are now in our 3rd generation of family ownership.
+  Keywords: 3rd generation, family ownership
+  URL: https://www.bristolassoc.com/
+- Item 2
+  Source Title: About Us - Bristol Associates
+  Quote: Now, President Ben Farber represents Bristol Associates’ third generation of family ownership.
+  Keywords: third generation, family ownership
+  URL: https://www.bristolassoc.com/about-us/
+- Item 3
+  Source Title: History of Bristol Associates
+  Quote: As a third-generation family-owned executive search firm, it is an incredible milestone to have been in business for 55 years and counting.
+  Keywords: third-generation, family-owned
+  URL: https://www.bristolassoc.com/blog/history-of-bristol-associates/
+- Item 4
+  Source Title: Benjamin (Ben) Farber - Bristol Associates
+  Quote: Benjamin (Ben) Farber, President, represents the third generation of proud family ownership of Bristol Associates – he is the nephew of Jim Jr. and Lucy Farber, second generation owners.
+  Keywords: third generation, family ownership, second generation owners
+  URL: https://www.bristolassoc.com/about-us/employees/ben-farber/
+Founder Last Name Matches:
+- Match 1
+  Founder Last Name: Bright
+  Matched Leaders: Jim Bright Jr.
+  Source URL: https://www.bristolassoc.com/about-us/
+- Match 2
+  Founder Last Name: Farber
+  Matched Leaders: Lucy Farber, Ben Farber, Nora Farber
+  Source URL: https://www.bristolassoc.com/blog/history-of-bristol-associates/
+Identifier Used: domain","Response",5,6,5.5
+"","Autism Care West","Charles Marriott, BCBA, LBA","Founder and Owner","cmarriott@autismcarewest.com","Yes","Las Vegas Metropolitan Area, United States","autismcarewest.com","https://www.linkedin.com/in/charles-marriott-bcba-lba-3b07a317/","Yes","Company: Autism Care West
+Family-Owned: Yes
+Confidence: high
+Rationale: Autism Care West is determined to be family-owned based on the shared last name of founder Charles Marriott and Director of Operations Yelena Marriott. Additionally, the company's LinkedIn profile explicitly mentions 'both owners' and refers to staff as being 'raised in our family,' indicating a family-run structure and philosophy.
+Evidence:
+- Item 1
+  Source Title: The Team - Autism Care West
+  Quote: Charles Marriott BCBA, LBA Founder... Yelena Marriott M.A. Director of Operations
+  Keywords: Founder, Director of Operations, Marriott
+  URL: https://www.autismcarewest.com/the-team
+- Item 2
+  Source Title: Autism Care West | LinkedIn
+  Quote: both owners ensure that our team is cared for and truly feels valued - we understand how this maintains a healthy family... choosing to only promote from within those whom have been raised in our family
+  Keywords: both owners, healthy family, raised in our family
+  URL: https://www.linkedin.com/company/autism-care-west
+- Item 3
+  Source Title: FEAT Member Profile - Autism Care West
+  Quote: Founded by Charles Marriott in 2009... operational support overseen by Yelena Marriott
+  Keywords: Founded by, Charles Marriott, Yelena Marriott
+  URL: https://featsonv.org/Sys/PublicProfile/77036435
+Founder Last Name Matches:
+- Match 1
+  Founder Last Name: Marriott
+  Matched Leaders: Yelena Marriott (Director of Operations)
+  Source URL: https://www.autismcarewest.com/the-team
+Identifier Used: domain","Response",5,5,5
+"","Chica Beauty","Toni Lee Jimenez","Founder/Sisterpreneur of CHICA BEAUTY LLC","toni@chicabeauty.com","Yes","San Antonio, Texas, United States","chicabeauty.com","https://www.linkedin.com/in/toni-lee-jimenez-6787326/","Yes","Company: Chica Beauty
+Family-Owned: Yes
+Confidence: high
+Rationale: Chica Beauty is family-owned, specifically co-founded and operated by sisters Mei-Lon and Toni Lee Jimenez. The company's website and third-party interviews (e.g., Voyage San Antonio, Bank of America) consistently use terms like 'sisters,' 'sister-preneurs,' and 'my sister and I' to describe the ownership and leadership structure.
+Evidence:
+- Item 1
+  Source Title: The Founders - Chica Beauty
+  Quote: As Latina sisters, Mei-Lon and Toni Lee Jimenez, we empower women through beauty, addressing a gap in the industry.
+  Keywords: sisters, Jimenez
+  URL: https://chicabeauty.com/pages/the-founders
+- Item 2
+  Source Title: San Antonio's Latina-owned beauty company Chica Beauty is expanding
+  Quote: The brand was founded in 2020, by Incarnate Word alumnae and sisters, Mei-Lon and Toni Lee Jimenez.
+  Keywords: founded, sisters
+  URL: https://chicabeauty.com/blogs/media-press/san-antonios-latina-owned-beauty-company-chica-beauty-is-expanding
+- Item 3
+  Source Title: Hidden Gems: Meet Mei-Lon Jimenez of Chica Beauty
+  Quote: Since launching in November 2019, my sister and I have grown this business on our own...
+  Keywords: sister, grown this business on our own
+  URL: https://voyagesanantonio.com/interview/hidden-gems-meet-mei-lon-jimenez-of-chica-beauty/
+- Item 4
+  Source Title: Client Spotlight: Chica Beauty
+  Quote: Founders and “sister-preneurs,” Mei-Lon and Toni, built a cosmetic lifestyle brand that goes beyond beauty to inspire women on-the-go.
+  Keywords: Founders, sister-preneurs
+  URL: https://business.bankofamerica.com/en/resources/client-spotlight-chica-beauty
+Founder Last Name Matches:
+- Match 1
+  Founder Last Name: Jimenez
+  Matched Leaders: Mei-Lon Jimenez (Co-Founder), Toni Lee Jimenez (Co-Founder)
+  Source URL: https://chicabeauty.com/pages/the-founders
+Identifier Used: domain","Response",5,5,5
+"","Don H. Mahaffey Drilling Co.","Ashley M.","CEO","ashley@mahaffeydrilling.com","Yes","Los Angeles Metropolitan Area, United States","mahaffeydrilling.com","https://www.linkedin.com/in/ashleymtullius/","Yes","Company: Don H. Mahaffey Drilling Co.
+Family-Owned: Yes
+Confidence: high
+Rationale: Mahaffey Drilling (Don H. Mahaffey Drilling Co.) is a fourth-generation family-owned business. The company was founded by J.R. Mahaffey in the 1920s, succeeded by Don H. Mahaffey in 1946, and is currently owned and led by Ashley Mahaffey (CEO), representing the fourth generation of the family.
+Evidence:
+- Item 1
+  Source Title: About Us - Mahaffey Drilling
+  Quote: Today, the fourth generation of Mahaffeys continues this tradition of excellence with a steadfast commitment to innovation and quality in the foundation drilling sector.
+  Keywords: fourth generation, tradition, legacy
+  URL: https://www.mahaffeydrilling.com/about-us/
+- Item 2
+  Source Title: Mahaffey Drilling Homepage
+  Quote: Partner with 4th generation family ownership and integrity
+  Keywords: 4th generation, family ownership
+  URL: https://www.mahaffeydrilling.com/
+- Item 3
+  Source Title: Don H. Mahaffey Drilling Co. | LinkedIn
+  Quote: Don H. Mahaffey Drilling Co. is a fourth-generation, family-owned deep foundation drilling contractor with roots dating to the 1920s
+  Keywords: fourth-generation, family-owned
+  URL: https://www.linkedin.com/company/mahaffeydrilling
+Founder Last Name Matches:
+- Match 1
+  Founder Last Name: Mahaffey
+  Matched Leaders: Ashley Mahaffey (CEO and Owner), Michael Mahaffey (Former Leader), Patti Mahaffey (Former Leader)
+  Source URL: https://www.mahaffeydrilling.com/about-us/
+Identifier Used: domain","Response",4,6,5
+"","SFD Trading Inc.","Ami Raz and Karen Raz","Owner","ami@viaraz.com","No","San Francisco, CA","viaraz.com","https://www.linkedin.com/company/sfd-trading-inc.","Yes","Company: SFD Trading Inc.: Family-owned: Yes. Evidence: LinkedIn company About section explicitly states: 'Established in 1985, SFD is a family-owned and operated business.' (linkedin.com/company/sfd-trading-inc.); Testimonials on the company website reference 'the Raz family' and specifically mention Ami Raz in the context of the family business (viaraz.com).; Multiple individuals with the Raz surname (Ami and Karen) are listed as Owners, supporting the family leadership structure (linkedin.com/company/sfd-trading-inc.).. Decision-maker: Yes. Reason: Both Ami Raz and Karen Raz hold the title of 'Owner' at SFD Trading Inc., which is a top-tier decision-making role. This status is corroborated by LinkedIn employee listings and the Better Business Bureau profile for the company.. Confidence: 95","Response",2,7,4.5
+"","Senior Care Homes","Erwin Allado","CEO | Co-Founder","erwin@seniorcarehomes.com","Yes","San Clemente, California, United States","seniorcarehomes.com","https://www.linkedin.com/in/winallado/","Yes","Company: Senior Care Homes
+Family-Owned: Yes
+Confidence: high
+Rationale: SeniorCareHomes.com is confirmed to be family-owned based on explicit statements on its official website ('We are family owned since 2007') and the continued leadership of its co-founders, Catharine Denise Allado and Win T. Allado, who serve as COO and CEO respectively.
+Evidence:
+- Item 1
+  Source Title: About Us - SeniorCareHomes.com
+  Quote: We are family owned since 2007 and have been guiding tens of thousands of families for over 15 years.
+  Keywords: family owned, privately owned
+  URL: https://seniorcarehomes.com/about-us/
+- Item 2
+  Source Title: SeniorCareHomes.com Launches New Senior Living Website
+  Quote: Founded in 2006, SeniorCareHomes.com is a privately owned senior care resource platform dedicated to helping families...
+  Keywords: privately owned, Founded
+  URL: https://seniorcarehomes.com/press-media/news/seniorcarehomes-com-launches-new-senior-living-website/
+- Item 3
+  Source Title: Senior Care Homes Homepage
+  Quote: Thousands of Families Have Trusted Senior Care Homes Since 2007
+  Keywords: Families
+  URL: https://seniorcarehomes.com/
+Founder Last Name Matches:
+- Match 1
+  Founder Last Name: Allado
+  Matched Leaders: Catharine Denise Allado (Co-Founder / COO), Win T. Allado (Co-Founder / CEO)
+  Source URL: https://seniorcarehomes.com/about-us/
+Identifier Used: domain","Response",1,7,4
+"","The Patriot Group, Inc. (TPGI)","David Dickey","CEO","david@thepatriotsgrp.com","No","Huntington Beach, CA","thepatriotsgrp.com","https://www.linkedin.com/company/patriotgroup","Yes","Company: The Patriot Group, Inc. (TPGI)
+Family-Owned: Yes
+Confidence: high
+Rationale: The Patriot Group, Inc. (TPGI) is confirmed as family-owned based on explicit statements on its website ('Two generations of Patriots') and LinkedIn profile ('Family Owned Small Business'). Additionally, the company is led by David Dickey (Founder) and Carolyn V Dickey (Co-Founder), indicating family involvement in leadership.
+Evidence:
+- Item 1
+  Source Title: About Us - The Patriot Group, Inc.
+  Quote: We are Patriots and We are family. Two generations of Patriots in the industry.
+  Keywords: family, two generations
+  URL: https://thepatriotsgrp.com/about/
+- Item 2
+  Source Title: The Patriot Group, Inc. (TPGI) | LinkedIn
+  Quote: A Disabled Veteran & Family Owned Small Business since 2012.
+  Keywords: Family Owned, Sustained by family
+  URL: https://www.linkedin.com/company/patriotgroup
+Founder Last Name Matches:
+- Match 1
+  Founder Last Name: Dickey
+  Matched Leaders: David Dickey, Carolyn V Dickey
+  Source URL: https://thepatriotsgrp.com/about/
+Identifier Used: domain","Response",5,3,4
+"","Counts Law Firm PC","Emahn Counts Esq.","Chief Executive Officer","emahn@countslawfirm.com","Yes","Los Angeles, California, United States","countslawfirm.com","https://www.linkedin.com/in/emahncounts/","Yes","Company: Counts Law Firm PC
+Family-Owned: Yes
+Confidence: high
+Rationale: Counts Law Firm PC appears to be family-owned and operated. It was founded by Emahn Counts, and the current Chief Operating Officer is Toni Counts. The shared last name and the firm's LinkedIn classification as 'Self Owned' support this conclusion.
+Evidence:
+- Item 1
+  Source Title: Emahn Counts - Counts Law Firm PC
+  Quote: Emahn Counts is the founder of Counts Law Firm PC... Toni | Chief Operating Officer
+  Keywords: founder, Chief Operating Officer
+  URL: https://www.countslawfirm.com/emahn-counts-law-firm/
+- Item 2
+  Source Title: Counts Law Firm PC | LinkedIn
+  Quote: ""type"": ""Self Owned"" ... Emahn Counts, Esq., founder and managing attorney
+  Keywords: Self Owned, founder
+  URL: https://www.linkedin.com/company/countslawfirm
+- Item 3
+  Source Title: How legal professionals are using AI with Toni Counts
+  Quote: Toni Counts, chief operating officer, Counts Law Firm PC
+  Keywords: chief operating officer
+  URL: https://www.dailyjournal.com/article/389222-how-legal-professionals-are-using-ai-with-toni-counts
+Founder Last Name Matches:
+- Match 1
+  Founder Last Name: Counts
+  Matched Leaders: Toni Counts
+  Source URL: https://www.countslawfirm.com/emahn-counts-law-firm/
+Identifier Used: domain","Response",2,5,3.5
+"","G&G Productions, Inc.","Joaquin Rodriguez","Owner","joaquin@ggshows.com","No","Carmichael, CA","ggshows.com","https://www.linkedin.com/company/g&g-productions-inc-","Yes","Company: G&G Productions, Inc.
+Family-Owned: Yes
+Confidence: high
+Rationale: G&G Productions, Inc. (ggshows.com) is confirmed as a family-owned business. This is supported by an explicit statement on their LinkedIn profile describing the company as 'Family owned and operated for over 25 years.' Additionally, the Better Business Bureau profile for the company identifies Jaime Rodriguez and Joaquin Rodriguez as the owners, confirming that the business is managed by members of the same family.
+Evidence:
+- Item 1
+  Source Title: G&G Productions, Inc. | LinkedIn
+  Quote: Family owned and operated for over 25 years, G&G Productions is highly respected as one of the premier home show marketing companies in California
+  Keywords: Family owned, operated
+  URL: https://www.linkedin.com/company/g&g-productions-inc-
+- Item 2
+  Source Title: G&G Productions | Better Business Bureau Profile
+  Quote: Business Management: Mr. Jaime Rodriguez, Owner; Mr. Joaquin Rodriguez, Owner
+  Keywords: Owner, Rodriguez
+  URL: https://www.bbb.org/us/ca/carmichael/profile/event-planner/gg-productions-1156-47017262
+- Item 3
+  Source Title: G&G Shows - Home & Garden Shows
+  Quote: Over 30 Years of Premier Home & Garden Shows.
+  Keywords: 30 Years
+  URL: https://ggshows.com/
+Founder Last Name Matches:
+- Match 1
+  Founder Last Name: Rodriguez
+  Matched Leaders: Mr. Jaime Rodriguez, Mr. Joaquin Rodriguez
+  Source URL: https://www.bbb.org/us/ca/carmichael/profile/event-planner/gg-productions-1156-47017262
+Identifier Used: domain","Response",2,5,3.5
+"","JDM Funding Corporation","Judith V.","CEO","judith@jdmfundingcorp.com","Yes","Los Angeles Metropolitan Area, United States","jdmfundingcorp.com","https://www.linkedin.com/in/vargasjudith/","Yes","Company: JDM Funding Corporation
+Family-Owned: Yes
+Confidence: high
+Rationale: JDM Funding Corporation explicitly states on its website that it is 'family owned and operated.' This is supported by the company's history of being established by founder Josh in 2013 and third-party listings on LinkedIn and Yelp that describe the business as self-owned.
+Evidence:
+- Item 1
+  Source Title: Commercial Loan Officer - JDM Funding Corporation
+  Quote: We are family owned and operated, and we help make dreams come true for individuals buying homes, as well as teams of investors buying shopping malls and major acquisitions.
+  Keywords: family owned, operated
+  URL: https://jdmfundingcorp.com/commercial-loan-officer/
+- Item 2
+  Source Title: JDM Funding Corporation | LinkedIn
+  Quote: Type: Self-Owned
+  Keywords: Self-Owned
+  URL: https://www.linkedin.com/company/jdm-funding-corpoartion
+Founder Last Name Matches:
+Identifier Used: domain","Response",2,5,3.5
+"","Lassiter Excavating","Verdell & Brenda Lassiter","Owners / Founders","verdell@lassiterexcavating.com","No","Livermore, California","lassiterexcavating.com","https://www.linkedin.com/company/lassiter-excavating","Yes","Company: Lassiter Excavating
+Family-Owned: Yes
+Confidence: high
+Rationale: Lassiter Excavating is a family-owned and operated business founded in 1989 by Verdell and Brenda Lassiter. Their son, Bryce, is also active in the business. This is confirmed by explicit statements on the company's website and corroborating details found on Yelp.
+Evidence:
+- Item 1
+  Source Title: About - Lassiter Excavating
+  Quote: We are a family-owned and -operated business that treats every one of our customers like family.
+  Keywords: family-owned, operated, son
+  URL: https://lassiterexcavating.com/about/
+- Item 2
+  Source Title: Lassiter Excavating Inc.
+  Quote: LASSITER EXCAVATING INC., FAMILY OWNED AND OPERATED
+  Keywords: FAMILY OWNED, OPERATED
+  URL: https://lassiterexcavating.com/
+- Item 3
+  Source Title: Lassiter Excavating - Yelp
+  Quote: Verdell Lassiter is the President of Lassiter Excavating. The family run business which includes his wife, Brenda and son, Bryce, has been in operation...
+  Keywords: family run, wife, son
+  URL: https://www.yelp.com/biz/lassiter-excavating-livermore-2
+Founder Last Name Matches:
+- Match 1
+  Founder Last Name: Lassiter
+  Matched Leaders: Verdell Lassiter, Brenda Lassiter, Bryce Lassiter
+  Source URL: https://lassiterexcavating.com/about/
+Identifier Used: domain","Response",2,5,3.5
+"","Orgenetics, Inc.","Dolly Maheshvari","CEO","dolly@orgenetics.com","No","Brea, California","orgenetics.com","https://www.linkedin.com/company/orgenetics","Yes","Company: Orgenetics, Inc.: Family-owned: Yes. Evidence: LinkedIn About section states: 'We are proud to be a woman & family owned + run organization!' (linkedin.com/company/orgenetics).; LinkedIn employee list includes Saumil Maheshvari and Asmita Maheshvari, sharing the surname of the founders (linkedin.com/company/orgenetics).; Founder profile mentions the company was founded by Dolly Maheshvari along with Dr. Jit Maheshvari (linkedin.com/in/dolly-maheshvari-7a771416).. Decision-maker: Yes. Reason: Dolly Maheshvari holds the titles of Founder and CEO, which are primary indicators of high-level decision-making authority within an organization. Her leadership is corroborated by company-wide mentions on their official LinkedIn page.. Confidence: 95","Response",2,5,3.5
+"","Savage Search Associates","Lina Savage","Founder & CEO","info@savagesearchassoc.com","No","Lake Forest, California","savagesearchassoc.com","https://www.linkedin.com/in/linasavage/","Yes","Company: Savage Search Associates
+Family-Owned: Yes
+Confidence: high
+Rationale: Savage Search Associates is confirmed to be family-owned based on explicit statements on its official website and various professional directories. The company is led by founder Lina Savage, who operates the firm alongside her children, Jacob and Kristina. This multi-generational involvement and the consistent use of the 'family-owned' descriptor across first-party and third-party sources provide conclusive evidence.
+Evidence:
+- Item 1
+  Source Title: About - Savage Search Associates
+  Quote: Savage Search Associates is a family-owned, California recruitment agency specializing in executive search, management, and professional-level positions.
+  Keywords: family-owned, children, Founder
+  URL: https://savagesearchassoc.com/about/
+- Item 2
+  Source Title: Savage Search Associates - Lake Forest, CA - Yelp
+  Quote: Savage Search Associates is a premier boutique family-owned executive search and recruitment firm...
+  Keywords: family-owned, boutique
+  URL: https://www.yelp.com/biz/savage-search-associates-lake-forest
+- Item 3
+  Source Title: Savage Search Associates | LinkedIn
+  Quote: Our boutique, family-owned firm has a proven track record of placing high-performing candidates in roles that drive success.
+  Keywords: family-owned
+  URL: https://www.linkedin.com/company/savage-search-associates
+Founder Last Name Matches:
+- Match 1
+  Founder Last Name: Savage
+  Matched Leaders: Jacob Savage, Kristina Savage
+  Source URL: https://savagesearchassoc.com/about/
+Identifier Used: domain","Response",6,1,3.5
+"","StarWalker Organic Farms","Jason Walker & Kristina Walker","Founders & Owners","jason@starwalkerorganicfarms.com","No","Fort Jones, California","starwalkerorganicfarms.com","https://www.linkedin.com/company/starwalker-organic-farms","Yes","Company: StarWalker Organic Farms: Family-owned: Yes. Evidence: LinkedIn About states: 'StarWalker Organic Farms is a 3rd generation Certified Organic and Certified Humane family-owned organic farm set at the base of the Marble Mountains in beautiful Fort Jones, California.' (linkedin.com/company/starwalker-organic-farms > About us).; LinkedIn updates reference 'Women founders ... Kristina Walker ...' and a podcast episode where 'Jason and Kristina Walker share the story behind StarWalker Organic Farms', indicating the Walkers are company founders/leaders (linkedin.com/company/starwalker-organic-farms > Updates).; Company website (starwalkerorganicfarms.com) is the official domain for the brand and shows the company/product branding (homepage); site About/Leadership pages returned 404 on direct access during extraction, so primary ownership text was found on LinkedIn rather than on the site itself. (starwalkerorganicfarms.com homepage / visited pages).. Decision-maker: Yes. Reason: Kristina Walker is explicitly referenced in LinkedIn content as a founder ('Women founders ... Kristina Walker'), and both Jason and Kristina Walker co-host a public podcast episode describing the company's founding and operations. The company is privately held and presented with a small company size on LinkedIn, and company posts repeatedly name Jason and Kristina in leadership contexts — together these point to them being founders/owners and therefore likely decision-makers. No explicit 'Owner' title was found on the public site; evidence is primarily from the company LinkedIn page.. Confidence: 76","Response",2,5,3.5
+"","The Mortgage Outlet","Jerry Greer and Alex Greer","Founder and Co-Owners","jgreer@themortgageoutlet.com","No","San Jose, CA","themortgageoutlet.com","https://www.linkedin.com/company/the-mortgage-outlet","Yes","Company: The Mortgage Outlet: Family-owned: Yes. Evidence: The company's LinkedIn About section explicitly states: 'The Mortgage Outlet is a family-owned mortgage broker and lender' (linkedin.com/company/the-mortgage-outlet).; The official website's 'Our Team' page features a section titled 'Real People. Real Support. From Our Family To Yours' (themortgageoutlet.com/our-team).; Multiple leadership and staff members share the 'Greer' surname, including Jerry Greer (Co-Owner), Alex Greer (Co-Owner), Zachary Greer (Co-Owner), and Benjamin Greer (themortgageoutlet.com/our-team).. Decision-maker: Yes. Reason: Both Jerry Greer and Alex Greer hold the title of 'Co-Owner' as explicitly stated on the company's official team page and LinkedIn profiles. As owners of a small mortgage brokerage (2-10 employees), they possess primary decision-making authority over the business operations.. Confidence: 100","Response",2,5,3.5
+"","Vardy's Jewelers","Fanya Hull","Owner/CFO, A.J.P., C.G.","fanya@vardys.com","Yes","San Francisco Bay Area, United States","vardys.com","https://www.linkedin.com/in/fanya-hull-b7042b/","Yes","Company: Vardy's Jewelers
+Family-Owned: Yes
+Confidence: high
+Rationale: Vardy's Jewelers is clearly a family-owned and operated business. The company's official website explicitly uses the terms 'family-owned' and 'family-run' on its homepage, services page, and contact page. Additionally, the founder, Vardy Shtein, is noted to work with his children, and family members Misha Shtein and Alice Shtein are listed as part of the team, demonstrating multi-generational family involvement in the business operations.
+Evidence:
+- Item 1
+  Source Title: Our Story - Vardy's Jewelers
+  Quote: Vardy works along side his children and staff, who all share his passion for fine jewelry and unequaled customer service.
+  Keywords: children, family-run
+  URL: https://www.vardys.com/our-story/
+- Item 2
+  Source Title: Vardy's Jewelers Homepage
+  Quote: FAMILY OWNED AND OPERATED... Our jewelry is handmade in our family-owned store in Cupertino, California.
+  Keywords: FAMILY OWNED, OPERATED
+  URL: https://www.vardys.com/
+- Item 3
+  Source Title: Jewelry Services - Vardy's Jewelers
+  Quote: Our jewelry is handmade in our family-owned store in Cupertino, California.
+  Keywords: family-owned
+  URL: https://www.vardys.com/services/
+Founder Last Name Matches:
+- Match 1
+  Founder Last Name: Shtein
+  Matched Leaders: Misha Shtein, Alice Shtein
+  Source URL: https://www.vardys.com/our-story/
+Identifier Used: domain","Response",2,5,3.5
+"","way2gradeA","Rulla Alkhayat","Cofounder and CEO","rulla@way2gradea.com","Yes","Las Vegas Metropolitan Area","way2gradea.com","https://www.linkedin.com/in/rulla/","Yes","Company: way2gradeA
+Family-Owned: Yes
+Confidence: high
+Rationale: Way2gradeA is confirmed as family-owned based on explicit statements on its 'About Us' page and homepage describing it as a 'family owned business' founded by a 'mother and daughter duo.' This is further corroborated by the company's LinkedIn and Yelp profiles which use identical terminology.
+Evidence:
+- Item 1
+  Source Title: About Us - way2gradeA
+  Quote: way2gradeA is a family owned business with success at the core of its creation. Since the co-founders of way2gradeA are a mother and daughter duo, parent and student views are combined for a comprehensive approach to tutoring.
+  Keywords: family owned, mother and daughter duo, co-founders
+  URL: https://way2gradea.com/about-us/
+- Item 2
+  Source Title: way2gradeA | LinkedIn
+  Quote: As a family owned business, we take pride in the caliber of our tutors and we measure success by the achievements of our students.
+  Keywords: family owned business
+  URL: https://www.linkedin.com/company/way2gradea
+- Item 3
+  Source Title: WAY2GRADEA - Lake Forest, CA
+  Quote: Our family business got started when we realized that we could transform the educational services industry. As a mother and daughter duo, we believe that...
+  Keywords: family business, mother and daughter duo
+  URL: https://www.yelp.com/biz/way2gradea-lake-forest
+Founder Last Name Matches:
+- Match 1
+  Founder Last Name: Al-khayat / Alani
+  Matched Leaders: Rulla Al-khayat (Co-Founder, Co-CEO), Maha Alani (Co-Founder, Co-CEO)
+  Source URL: https://way2gradea.com/about-us/
+Identifier Used: domain","Response",2,5,3.5
+"","J & G Builders","Gianni P.","Company Owner","j_gbuilders@msn.com","No","Los Angeles Metropolitan Area, United States","jandgbuilders.net","https://www.linkedin.com/company/j-g-builders/","Yes","Company: J & G Builders
+Family-Owned: Yes
+Confidence: high
+Rationale: J & G Builders is determined to be family-owned based on an explicit statement on their official Facebook page describing the company as a 'Christian owned family business'. This is supported by the company website and ZoomInfo, which identify Jason Patterson as the founder, and the presence of Heather Patterson on company profiles, indicating family involvement through matching last names.
+Evidence:
+- Item 1
+  Source Title: J & G Builders - Facebook
+  Quote: J & G Builders is a Christian owned family business that specializes in building custom homes and the remodeling of existing homes.
+  Keywords: family business, Christian owned
+  URL: https://www.facebook.com/J-G-Builders-191896304168341/
+- Item 2
+  Source Title: About Us - J & G Builders
+  Quote: J & G Builders was founded in 2005 by Jason Patterson.
+  Keywords: founded by
+  URL: https://www.jandgbuilders.net/about
+- Item 3
+  Source Title: J & G Builders LLC - ZoomInfo
+  Quote: Founded by licensed contractor Jason Patterson, the company operates with principles of integrity and honesty.
+  Keywords: Founded by
+  URL: https://www.zoominfo.com/c/j-and-g-builders-llc/447428554
+Founder Last Name Matches:
+- Match 1
+  Founder Last Name: Patterson
+  Matched Leaders: Heather Patterson
+  Source URL: https://www.facebook.com/p/J-G-Builders-100062310917477/
+Identifier Used: domain","Response",2,4,3
+"","MICHAEL M","Michael Meksian and Peter Meksian","Co-Founders","michael@michaelm.com","No","Los Angeles, CA","michaelm.com","https://www.linkedin.com/company/michael-m-collection","Yes","Company: MICHAEL M: Family-owned: Yes. Evidence: LinkedIn Company 'About' section states: 'Founded in 2008 by Peter Meksian and his father Michael, this family owned and operated premier bridal and fine jewelry house...' (linkedin.com/company/michael-m-collection).; Our Story page states: 'MICHAEL M was built out of generations of Meksian Family jewelry-making tradition' (michaelm.com/pages/our-story).; Our Story page notes: 'Michael and Peter joined forces to create MICHAEL M', confirming the father-son founding partnership (michaelm.com/pages/our-story).. Decision-maker: Yes. Reason: Peter Meksian holds the titles of CEO and Principal, which are primary decision-making roles. Michael Meksian is a co-founder and the brand's namesake; while his current title of 'Fashion jewelry director' is functional, his status as a founder and leader within a family-owned business indicates significant decision-making authority.. Confidence: 95","Response",2,4,3
+"","Halia","Alexandra Jocom","Founder","alexa@halia.co","Yes","Los Angeles, California, United States","halia.co","https://www.linkedin.com/in/alexandra-jocom-61306a108/","Yes","Company: Halia
+Family-Owned: Yes
+Confidence: high
+Rationale: Halia is determined to be family-owned and operated based on credible third-party reporting from Tatler Asia and AIM2Flourish. These sources confirm that founder Alexandra Jocom's mother, Kim Bigornia, serves as the company's COO and that her parents were instrumental in the company's early development and retail distribution. This direct involvement of family members in key executive and operational roles serves as strong evidence of a family-run business.
+Evidence:
+- Item 1
+  Source Title: Alexandra Jocom: Halia Sustainable Menstrual Care
+  Quote: Her mom, Kim Bigornia, doubles as Halia’s COO and the creative force behind their innovative bladder liners...
+  Keywords: mom, COO, parents, family of entrepreneurs
+  URL: https://www.tatlerasia.com/power-purpose/leadership/alexandra-jocom-halia-sustainable-menstrual-care
+- Item 2
+  Source Title: Pioneering Sustainable Menstrual Health in the Philippines
+  Quote: Halia, a Philippines-based company founded by Alexa Jocom in 2021 during her freshman year at Loyola Marymount University, stands at the forefront of sustainable menstrual health solutions.
+  Keywords: founded by, family
+  URL: http://aim2flourish.com/innovations/pioneering-sustainable-menstrual-health-in-the-philippines
+Founder Last Name Matches:
+Identifier Used: domain","Response",2,0,2
+"","PaintLab","Karina Sulzer","Founder & CEO","karina@skingymco.com","No","Los Angeles , CA","paintlabbeauty.com","https://www.linkedin.com/company/paintlabbeauty","Yes","Company: PaintLab: Family-owned: Yes. Evidence: LinkedIn company page About section explicitly states the company is 'Family Owned' (linkedin.com/company/paintlabbeauty).; Official About page identifies Karina Poruskevich as the founder but does not contain explicit 'family-owned' language (paintlabbeauty.com/pages/about-paintlab).. Decision-maker: Yes. Reason: Karina (identified as Sulzer, Poruskevich, or Porushkevich across sources) is explicitly identified as the Founder and Chief Executive Officer (CEO) of PaintLab. These are top-tier executive roles that carry primary decision-making authority for the organization.. Confidence: 82","Response",2,0,2
+"","The Clawcade","Christina Moat","Small Business Owner","theclawcade@gmail.com","Yes","Redondo Beach, California, United States","https://the-clawcade.com/","https://www.linkedin.com/in/cmoat/","Yes","Company: The Clawcade: Family-owned: Yes. Evidence: The official website states the business was 'Founded in 2024 by a South Bay mom' (the-clawcade.com/about).; The company's Instagram bio/caption explicitly states: 'We are proud to be a family run, Asian owned small business' (instagram.com/the_clawcade).; A Yelp review describes the establishment as a 'local Asian-American family-owned business' (yelp.com/biz/the-clawcade-torrance-2).. Decision-maker: Yes. Reason: Christina Moat is the Owner and Small Business Owner of The Clawcade. Her LinkedIn profile confirms she oversaw the business from conception through opening and manages all staff and HR responsibilities, indicating top-level decision-making authority.. Confidence: 80","Response",2,0,2
+"","Hendo Property Management LLC","Jeff Henderson","Business Owner",,"No","Austin, Texas, United States","hendopropertymanagement.com","https://www.linkedin.com/in/jeff-henderson-5506661/","Yes","Company: Hendo Property Management LLC
+Family-Owned: Yes
+Confidence: medium
+Rationale: Hendo Property Management LLC appears to be family-owned or operated based on the presence of Jeff Henderson and Julie Henderson in leadership/employee roles as listed on LinkedIn and Datanyze. The company is privately held, and the domain redirects to an Instagram profile identifying Jeff Henderson as the primary contact for the business.
+Evidence:
+- Item 1
+  Source Title: Hendo Property Management LLC | LinkedIn
+  Quote: Employees at Hendo Property Management LLC: Jeff Henderson; Julie Henderson, CPA
+  Keywords: Privately Held, Jeff Henderson, Julie Henderson
+  URL: https://www.linkedin.com/company/hendo-property-management
+- Item 2
+  Source Title: Jeff Henderson (@hendopropertymanagement) • Instagram
+  Quote: Jeff Henderson Hendo Property Management, LLC. Professionally managed rental homes in Austin, TX.
+  Keywords: Jeff Henderson, Hendo Property Management
+  URL: http://hendopropertymanagement.com
+Founder Last Name Matches:
+- Match 1
+  Founder Last Name: Henderson
+  Matched Leaders: Jeff Henderson, Julie Henderson
+  Source URL: https://www.linkedin.com/company/hendo-property-management
+Identifier Used: domain","Response",1,2,1.5
+"","KLM Consulting, Marketing and Management","Kelly Lorenzen, PMP","Chief Executive Officer","kelly@duplicatemyself.com","Yes","Tempe, Arizona, United States","duplicatemyselfklm.com","https://www.linkedin.com/in/kellylorenzen/","Yes","Company: KLM Consulting, Marketing and Management
+Family-Owned: Yes
+Confidence: high
+Rationale: The company appears to be family-owned based on the presence of two leaders with the same last name (Kelly Lorenzen, Founder/CEO and Josh Lorenzen, CFO) listed on the official 'About' page. Additionally, the Better Business Bureau (BBB) identifies Kelly Lorenzen as the sole owner, and the company's mission statement emphasizes protecting the legacy of family-owned businesses, suggesting an alignment with that business model.
+Evidence:
+- Item 1
+  Source Title: About Us - KLM Consulting
+  Quote: Kelly Lorenzen, PMP, CEO ... As Founder & CEO of KLM Consulting, Marketing & Management, Kelly built a company of business owners duplicating business owners. ... Josh Lorenzen, CFO ... Josh is the financial guru and handles the money side of KLM.
+  Keywords: Founder, CEO, CFO, family-owned businesses
+  URL: https://duplicatemyselfklm.com/about/
+- Item 2
+  Source Title: KLM Consulting, Marketing and Management | Better Business Bureau Profile
+  Quote: Business Management: Ms. Kelly Lorenzen, Owner
+  Keywords: Owner
+  URL: https://www.bbb.org/us/az/tempe/profile/business-consultant/klm-consulting-marketing-and-management-1126-1000115882
+- Item 3
+  Source Title: KLM Consulting, Marketing and Management | LinkedIn
+  Quote: Type: Self-Owned
+  Keywords: Self-Owned, family-owned businesses
+  URL: https://www.linkedin.com/company/duplicatemyselfklm
+Founder Last Name Matches:
+- Match 1
+  Founder Last Name: Lorenzen
+  Matched Leaders: Kelly Lorenzen (Founder & CEO), Josh Lorenzen (CFO)
+  Source URL: https://duplicatemyselfklm.com/about/
+Identifier Used: domain","Response",2,1,1.5
+"","Airedale Royalty","Mathis Fender","Chief Investment Officer / Co-Founder","mathis@airedaleroyalty.com","Yes","New York, New York, United States","airedaleroyalty.com","https://www.linkedin.com/in/mathisfender/","Yes","Company: Airedale Royalty
+Family-Owned: Yes
+Confidence: high
+Rationale: Airedale Royalty is confirmed as a family-owned and operated business through a direct interview with co-founder Mathis Fender, who states the company was founded and is run by him and his father, David Fender. Additionally, professional profiles on LinkedIn and RocketReach explicitly describe the company as 'family run' and list multiple individuals with the 'Fender' surname in leadership and support positions.
+Evidence:
+- Item 1
+  Source Title: Meet Mathis Fender of Airedale Royalty in Knox/Henderson
+  Quote: Airedale Royalty is a family business that was founded and is run by David (my dad) and Mathis Fender (me).
+  Keywords: family business, founded and is run by, my dad
+  URL: https://voyagedallas.com/interview/meet-mathis-fender-airedale-royalty-knoxhenderson/
+- Item 2
+  Source Title: Airedale Royalty | LinkedIn
+  Quote: Airedale Royalty is a family run business that provides a customized service for qualified investors who wish to invest in oil & gas minerals and royalty properties all across the United States.
+  Keywords: family run business
+  URL: https://www.linkedin.com/company/airedale-royalty
+- Item 3
+  Source Title: Airedale Royalty Management Team and Employees
+  Quote: Airedale Royalty is a family run business that provides a customized service for qualified investors who wish to invest in oil & gas minerals and royalty properties all across the United States.
+  Keywords: family run business
+  URL: https://rocketreach.co/airedale-royalty-profile_b420f0ecfee41807
+Founder Last Name Matches:
+- Match 1
+  Founder Last Name: Fender
+  Matched Leaders: David Fender (Co-Founder), Mathis Fender (Co-Founder / CIO), Abby Fender (Virtual Assistant / Jr. Marketing)
+  Source URL: https://rocketreach.co/airedale-royalty-profile_b420f0ecfee41807
+Identifier Used: domain","Response",1,0,1
+"","Elevate","Sylvia Guso","Founder","sylvia@letselevatetogether.com","Yes","Miami, Florida, United States","letselevatetogether.com","https://www.linkedin.com/in/sylvia-guso-264a31126/","Yes","Company: Elevate
+Family-Owned: Yes
+Confidence: high
+Rationale: Elevate (letselevatetogether.com) is confirmed as family-owned based on explicit statements found on its official website and LinkedIn profile, both of which describe the business as a 'family, women, and hispanic owned company.'
+Evidence:
+- Item 1
+  Source Title: Who We Are - Elevate
+  Quote: We are a family, women, and hispanic owned company upholding our core values of quality, collaboration, and customer commitment.
+  Keywords: family, owned company
+  URL: https://letselevatetogether.com/who-we-are
+- Item 2
+  Source Title: Elevate | LinkedIn
+  Quote: We are a family, women, and hispanic owned company upholding our core values of quality, collaboration, and customer commitment.
+  Keywords: family, owned company
+  URL: https://www.linkedin.com/company/letselevatetogether
+Founder Last Name Matches:
+Identifier Used: domain","Response",1,0,1
+"","TROS Unlimited Real Estate, LLC","Chibuikem (Kenny) Okoro","President","Hello@trosunlimited.com","No","Murrieta, California","trosunlimited.com","https://www.linkedin.com/in/chibuikem-kenny-okoro/","Yes","Company: TROS Unlimited Real Estate, LLC
+Family-Owned: Yes
+Confidence: high
+Rationale: Tros Unlimited (trosunlimited.com) is identified as a family-owned business based on multiple explicit statements on its official website and social media profiles. The company describes itself as a 'family owned and operated' and 'Mom-and-Pop' business, emphasizing core values of family and leaving a legacy for the next generation. These claims are corroborated by its LinkedIn and Facebook pages, which use identical terminology.
+Evidence:
+- Item 1
+  Source Title: TROS Unlimited - Home
+  Quote: Tros Unlimited is a family owned and operated US based real estate investment company.
+  Keywords: family owned, operated
+  URL: https://trosunlimited.com/
+- Item 2
+  Source Title: About Us - TROS Unlimited
+  Quote: Help our family owned business to travel the road less crowded with you today.
+  Keywords: family owned business
+  URL: https://trosunlimited.com/about/
+- Item 3
+  Source Title: Owner Financing - TROS Unlimited
+  Quote: We are a family-owned, “Mom-and-Pop” business here to leave a legacy built on transparency, personal relationships and personal experiences that positivity transforms the next generation.
+  Keywords: family-owned, Mom-and-Pop, legacy, next generation
+  URL: https://trosunlimited.com/owner-financing/
+- Item 4
+  Source Title: TROS Unlimited LLC - Facebook
+  Quote: TROS Unlimited, LLC is a family-owned, US-based vacant land real estate investment company.
+  Keywords: family-owned
+  URL: https://www.facebook.com/trosunlimited/
+Founder Last Name Matches:
+Identifier Used: domain","Response",1,0,1
